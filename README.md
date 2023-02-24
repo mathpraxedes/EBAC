@@ -1,6 +1,5 @@
-# MeuPrimeiroProjeto
+Repositório Exclusivamente para as aulas da Ebac
 
-### EBAC - Aula
 
 
 https://github.com/mathpraxedes/EBAC
